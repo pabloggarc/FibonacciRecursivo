@@ -2,7 +2,7 @@ def Fibonacci(n):
     """
     int--->int
     OBJ: Calcula el n-ésimo término de la sucesión de Fibonacci. 
-    PRE: Los términos de una sucesión son números enteros. 
+    PRE: Los términos de una sucesión son números naturales. 
     """
     if(n==0): 
         return 0
